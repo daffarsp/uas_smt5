@@ -1,0 +1,25 @@
+/* Sintak ini adalah untuk merubah 
+paragraf menjadi warna merah dan font-size menjadi 18px */
+       /* 
+* {
+            color:red;
+            font-size: 18px;
+        }
+     
+        p {
+            color:red;
+            font-size: 18px;
+        }
+
+        h1 {
+            color:yellow;
+        }
+  */
+
+  .biru {
+    color:blue;
+  }
+
+  #merah {
+     color: red;
+  }
